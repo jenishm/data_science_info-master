@@ -20,7 +20,6 @@
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
 * [Data Science Competitions](#competitions)
-* [Comics](#comics)
 * [Other Awesome Lists](#other-awesome-lists)
 
 
